@@ -1,0 +1,12 @@
+create a pv and assign with readonly with speicifc size, hostpath
+create a pod name adn assign pc to pod with hostpath under dire 
+create service account and bind role to it
+create a newtwork polic that will allow 9100/tcp from one namespace to another namespace, which should not allow other ports
+find top cpu and rame used ndoes and pods
+etcd backup and u should login from speicifc ndoes
+node cordone and uncordon move running pods to another node should not delete 
+get the pod logs and get the error push error log to file
+add node selector or remove node selector
+add scheduler for two pods
+add http 80 port for the pod, and expose the pods using node port in ingress
+scale down replica
